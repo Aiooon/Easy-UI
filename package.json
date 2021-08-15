@@ -1,7 +1,8 @@
 {
-  "name": "easy-ui",
+  "name": "easy-ui-zy",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main": "dist/ez-ui.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
