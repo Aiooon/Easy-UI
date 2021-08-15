@@ -1,6 +1,6 @@
 # easy-ui 使用指南
 
-### 初始化vue项目
+### 初始化 vue 项目
 ```
 vue created demo
 ```
@@ -8,7 +8,7 @@ vue created demo
 
 ### 安装组件库
 ```
-npm add easy-ui
+npm i easy-ui-zy
 ```
 
 ### 全局导入
