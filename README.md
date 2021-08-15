@@ -1,19 +1,20 @@
-# easy-ui
+# easy-ui 使用指南
 
-## Project setup
+### 初始化vue项目
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+vue created demo
 ```
 
-### Compiles and minifies for production
+
+### 安装组件库
 ```
-npm run build
+npm add easy-ui
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 全局导入
+```
+import EzUI form 'easy-ui'
+import 'easy-ui/lib/easy-ui.css'
+
+Vue.use(EzUI)
+```
